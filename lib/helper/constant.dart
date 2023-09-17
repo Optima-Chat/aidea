@@ -9,7 +9,7 @@ const maxRoomNumForNonVIP = 50;
 const coinSign = '个';
 
 // API 服务器地址
-const apiServerURL = 'https://ai-api.aicode.cc';
+const apiServerURL = 'http://dev.optima.chat:9101';
 // const apiServerURL = 'http://localhost:8080';
 
 const settingAPIServerToken = 'api-token';
